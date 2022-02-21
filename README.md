@@ -7,25 +7,29 @@
 - 📫 How to reach me **fabricio19110@gmail.com**
 - ⚡ Fun fact: **i'm not funny**
 
+<a href="https://discord.gg/zrESMn6">
+  <img align="right" src="https://lanyard.cnrad.dev/api/393382613047574530?idleMessage=I%27m+probably+programming..." alt="fabricio-191"/>
+</a>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
 
@@ -42,7 +46,6 @@
   </a>
 </p>
 
-</br>
 </br>
 
 <p>
@@ -75,10 +78,8 @@
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="Fabricio191" data-description="Support me on Buy me a coffee!" data-message="It would be greatly appreciated " data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 -->
 
-</br>
-
-<p>
+<p align="right">
   <a href="https://www.buymeacoffee.com/Fabricio191">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="50" width="210" alt="Fabricio191" />
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="50" width="210" alt="Fabricio191" />
   </a>
 </p>
