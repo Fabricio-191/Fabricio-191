@@ -1,4 +1,4 @@
-<h2 align="center">A passionate programming enthusiast from Argentina</h2>
+<h2 align="center">A programming enthusiast from Argentina</h2>
 
 - 🔭 I’m currently working on **nothing in particular**
 - 🌱 I’m currently learning **python**
