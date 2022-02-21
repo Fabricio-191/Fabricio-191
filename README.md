@@ -1,10 +1,10 @@
 <h2 align="center">A programming enthusiast from Argentina</h2>
 
-- 🔭 I’m currently working on **nothing in particular**
-- 🌱 I’m currently learning **python**
-- 👯 I’m looking to collaborate on **any frontend/node.js/python project**
-- 💬 Ask me about **javascript/node.js**
-- 📫 How to reach me **fabricio19110@gmail.com** or **https://discord.gg/zrESMn6**
+- 👯 I’m looking to collaborate on: **any frontend/Node.js/TypeScript/Python project**
+- 🌱 I’m currently learning: **python**
+- 🔭 I’m currently working on: **nothing in particular**
+- 💬 Ask me about: **Node.js/JavaScript/TypeScript**
+- 📫 How to reach me: **fabricio19110@gmail.com** or **https://discord.gg/zrESMn6**
 - ⚡ Fun fact: **i'm not funny**
 
 <a href="https://discord.gg/zrESMn6">
