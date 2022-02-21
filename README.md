@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **python**
 - 👯 I’m looking to collaborate on **any frontend/node.js/python project**
 - 💬 Ask me about **javascript/node.js**
-- 📫 How to reach me **fabricio19110@gmail.com**
+- 📫 How to reach me **fabricio19110@gmail.com** or **https://discord.gg/zrESMn6**
 - ⚡ Fun fact: **i'm not funny**
 
 <a href="https://discord.gg/zrESMn6">
