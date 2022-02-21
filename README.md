@@ -7,8 +7,8 @@
 - 📫 How to reach me: **fabricio19110@gmail.com** or **https://discord.gg/zrESMn6**
 - ⚡ Fun fact: **i'm not funny**
 
-<a href="https://discord.gg/zrESMn6">
-  <img align="right" src="https://lanyard.cnrad.dev/api/393382613047574530?idleMessage=I%27m+probably+programming..." alt="fabricio-191"/>
+<a align="right" href="https://discord.gg/zrESMn6">
+  <img align="right" src="https://lanyard.cnrad.dev/api/393382613047574530" alt="fabricio-191"/>
 </a>
 
 <h3 align="left">Languages:</h3>
@@ -75,11 +75,11 @@
 ![](
   https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/4-productive-time.svg
 )
+
+<a href="https://www.buymeacoffee.com/Fabricio191">
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="50" width="210" alt="Fabricio191" />
+</a>
+
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="Fabricio191" data-description="Support me on Buy me a coffee!" data-message="It would be greatly appreciated " data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 -->
 
-<p align="right">
-  <a href="https://www.buymeacoffee.com/Fabricio191">
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="50" width="210" alt="Fabricio191" />
-  </a>
-</p>
