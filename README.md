@@ -1,10 +1,11 @@
 <h2 align="center">A programming enthusiast from Argentina</h2>
-
+<a align="right" href="https://discord.gg/zrESMn6" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zrESMn6" height="100" width="133" /></a>
+ 
 - 👯 I’m looking to collaborate on: **any JavaScript/TypeScript/Python project**
 - 🌱 I’m currently learning: **python**
 - 🔭 I’m currently working on: **nothing in particular**
 - 💬 Ask me about: **Node.js/JavaScript/TypeScript**
-- 📫 How to reach me: **fabricio19110@gmail.com** or <a align="left" href="https://discord.gg/zrESMn6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zrESMn6" height="30" width="40" /></a>
+- 📫 How to reach me: **fabricio19110@gmail.com** or **https://discord.gg/zrESMn6**
 - ⚡ Fun fact: **i'm not funny**
 
 <h3 align="left">Languages:</h3>
