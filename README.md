@@ -3,7 +3,6 @@
  
 - 👯 I’m looking to collaborate on: **any JavaScript/TypeScript/Python project**
 - 🌱 I’m currently learning: **python/html/css**
-- 🔭 I’m currently working on: **simplest.db**
 - 💬 Ask me about: **Node.js/JavaScript/TypeScript**
 - 📫 How to reach me: **fabricio19110@gmail.com** or **https://discord.gg/zrESMn6**
 - ⚡ Fun fact: **i'm not funny**
@@ -57,9 +56,7 @@
 </p>
 
 <!--
-![](
-  https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/3-stats.svg
-)
+![](https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/3-stats.svg)
 <p>
   <img align="right" src="https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
 </p>
