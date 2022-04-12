@@ -45,24 +45,21 @@
 </br>
 
 <p align="center" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabricio-191&show_icons=true&locale=en&theme=radical" alt="Fabricio-191" />
-</p>
-<p align="center" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Fabricio-191&date_format=M%20j%5B%2C%20Y%5D&theme=radical" alt="Fabricio-191"/>
-</p>
-
-<p align="center" >
-  <img align="center" src="https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Fabricio-191"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-191&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabricio-191&show_icons=true&locale=en&theme=radical" alt="Fabricio-191" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fabricio-191&date_format=M%20j%5B%2C%20Y%5D&theme=radical" alt="Fabricio-191"/>
+  <img src="https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Fabricio-191"/>
 </p>
 
 <!--
 ![](https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/3-stats.svg)
+
 <p>
   <img align="right" src="https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
 </p>
 <p>
   <img align="right" src="https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-191&layout=compact)
+</p>
 
 <a align="right" href="https://discord.gg/zrESMn6">
   <img align="right" src="https://lanyard.cnrad.dev/api/393382613047574530" alt="fabricio-191"/>
