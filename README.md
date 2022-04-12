@@ -1,5 +1,7 @@
 <h2 align="center">A programming enthusiast from Argentina</h2>
-<a align="right" href="https://discord.gg/zrESMn6" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zrESMn6" height="100" width="133" /></a>
+<a align="right" href="https://discord.gg/zrESMn6" target="blank">
+ <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zrESMn6" height="100" width="133" />
+</a>
  
 - 👯 I’m looking to collaborate on: **any JavaScript/TypeScript/Python project**
 - 🌱 I’m currently learning: **python/html/css**
@@ -44,14 +46,17 @@
 
 </br>
 
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-191&layout=compact&theme=radical" alt="Top Langs"/>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabricio-191&show_icons=true&locale=en&theme=radical" alt="Fabricio-191" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Fabricio-191&date_format=M%20j%5B%2C%20Y%5D&theme=radical" alt="Fabricio-191"/>
   <img src="https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Fabricio-191"/>
 </p>
 
 <!--
+
+<p align="right" position="relative" style="z-index: 100; position: fixed;">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-191&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
 ![](https://raw.githubusercontent.com/Fabricio-191/Fabricio-191/master/profile-summary-card-output/solarized_dark/3-stats.svg)
 
 <p>
